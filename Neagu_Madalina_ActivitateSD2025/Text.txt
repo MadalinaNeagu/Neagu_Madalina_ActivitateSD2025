@@ -1,0 +1,3 @@
+Mathias,10,1110,PSI
+Alin,6.85, 1118, Sociologie
+Alina,9.75, 1114,Pachete Software
