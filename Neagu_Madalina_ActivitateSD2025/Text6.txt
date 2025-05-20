@@ -1,0 +1,7 @@
+1,IOS,239.99,display,18
+2,IOS,147.99,incarcator,1
+7,IOS,21.99,apa,17
+11,Andoid,178.99,folie,29
+71,IOS,88.99,display,10
+18,IOS,888.99,display,8
+12,IOS,1239.99,display,14
