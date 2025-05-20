@@ -1,0 +1,5 @@
+Farmacie1,100,16,200
+Farmacie2,90,12,120
+Farmacie3,77,15,201
+Farmacie4,120,16,160
+Farmacie5,32,14,204
