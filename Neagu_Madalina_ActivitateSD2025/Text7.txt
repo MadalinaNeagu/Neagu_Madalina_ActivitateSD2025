@@ -1,0 +1,7 @@
+7,Neo,2,Andrei,18
+2,Zeos,4,Rares,1
+1,Neptun,1,Ana,17
+11,Central,1,Matei,29
+5,Elexius,3,Mada,10
+13,MareaNord,2,Paul,8
+12,Mamaia,1,Luzi,14
