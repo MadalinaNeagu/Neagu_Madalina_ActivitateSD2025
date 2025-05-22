@@ -127,7 +127,29 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ArboreBinarCautare.c" />
+    <ClCompile Include="Exercise01.c" />
+    <ClCompile Include="Exercise02.c" />
+    <ClCompile Include="Farmacie01.c" />
+    <ClCompile Include="HashTable.c" />
+    <ClCompile Include="HeapExercise.c" />
+    <ClCompile Include="HT02.c" />
+    <ClCompile Include="Lista01.c" />
+    <ClCompile Include="Lista02.c" />
+    <ClCompile Include="ListaCitireDinFisier.c" />
+    <ClCompile Include="ListaDubla.c" />
     <ClCompile Include="Seminar01.c" />
+    <ClCompile Include="StivaCozi.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Text.txt" />
+    <Text Include="Text1.txt" />
+    <Text Include="Text2.txt" />
+    <Text Include="Text3.txt" />
+    <Text Include="Text4.txt" />
+    <Text Include="Text5.txt" />
+    <Text Include="Text6.txt" />
+    <Text Include="Text7.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
